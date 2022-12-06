@@ -1,0 +1,21 @@
+{
+    "name": "armandoyerek/tienda-online2",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+
+               ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": { 
+            "ArmandoYerek\\":"src/"
+                 }
+                }
+}
